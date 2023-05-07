@@ -1,4 +1,4 @@
-# Crypto-Profitability-Calculator
+# Crypto Mining Profitability Calculator
 
 Gathers information from the whattomine and nicehash APIs and converts it into useful information according to the Hashrate, Power Consumption and Electricity Cost in ZAR entered by the user.
 
