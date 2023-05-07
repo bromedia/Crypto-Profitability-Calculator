@@ -7,3 +7,5 @@ Gathers information from the whattomine and nicehash APIs and converts it into u
   <li>Calculate profitability for some of the more dubious algorithms.</li>
   <li>Add support for additional currencies.</li>
 </ul>
+
+Created by Conor Campbell at <a href="https://bromedia.co.za">Bro Media</a>
